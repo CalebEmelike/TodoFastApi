@@ -1,6 +1,8 @@
 /todoproject/
 __pycache__/
 
-# remove all files ending in .zip or .tar.gz
+# remove all files ending in .zip or .tar.gz or .gitingore
+
 *.zip
 *.tar.gz
+*.gitignore
