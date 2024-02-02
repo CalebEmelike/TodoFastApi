@@ -2,7 +2,3 @@
 __pycache__/
 
 # remove all files ending in .zip or .tar.gz or .gitingore
-
-.static.zip
-*.tar.gz
-*.gitignore
