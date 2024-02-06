@@ -5,7 +5,7 @@ from sqlalchemy.orm import sessionmaker, declarative_base
 
 
 
-SQLALCHEMY_DATABASE_URL = 'postgresql://ezgmixpr:CIUkwhxlRiSukdeR4zLFSFQApnzYJEgF@jelani.db.elephantsql.com/ezgmixpr'
+SQLALCHEMY_DATABASE_URL = 'add your database url here'
 
 engine = create_engine(SQLALCHEMY_DATABASE_URL)
 
